@@ -26,7 +26,7 @@ To install Random Access Memory, power down your computer, unplug it, open the c
 
 - **Motherboard** - is the main printed circuit board (PCB) in a computer that connects all its internal components, such as the CPU, RAM, and storage drives.
 
--**Overclocking** - is the process of running your computer's random access memory at a higher speed (frequency) than its factory default settings, which can improve system performance. 
+- **Overclocking** - is the process of running your computer's random access memory at a higher speed (frequency) than its factory default settings, which can improve system performance. 
 
 - **BIOS** - stands for Basic Input/Output System, which is the firmware on a computer's motherboard that initializes hardware and boots the operating system.
 
