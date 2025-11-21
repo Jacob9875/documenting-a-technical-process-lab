@@ -80,7 +80,7 @@ To install Random Access Memory, power down your computer, unplug it, open the c
 
 [Installing Random Access Memory on a Laptop](https://www.youtube.com/shorts/gM6dxibEg10)
 
-![Picture of Dual In-line Memory Module in a Desktop](https://share.google/images/c7sArWkMNmz9Vglsc)
+![Picture of Dual In-line Memory Module in a Desktop](https://cdn.mos.cms.futurecdn.net/v2/t:0,l:92,cw:553,ch:415,q:80,w:553/DSFMci6yuZRnirtCR2ns9M.jpg)
 
 ![Picture of Small Outline Dual In-line Memory Module in a Laptop](https://share.google/images/mMaPcwvmvRwgTaHOX)
 
