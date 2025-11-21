@@ -60,7 +60,7 @@ To install Random Access Memory, power down your computer, unplug it, open the c
 
 ### Troubleshooting Steps and Pitfalls to Avoid
 
-- **Random Access Memory may be difficult to remove or seat properly** 
+- **Random Access Memory may be difficult to remove or seat properly** :
 
 - If the Random Access Memory sticks are tough to get in, then make sure you have them properly aligned. The sticks will only fit one direction. They line up only one way using the space in the near middle of the stick for alignment with the space in the Dual In-line Memory Module for desktop or Small Outline Dual In-line Memory Module for a Laptop. For Random Access Memory installation you usually want hear a click that varifies the Random Access Memory is seated correctly or the tab is fully compressed over the edge of the stick. 
 
@@ -68,7 +68,7 @@ To install Random Access Memory, power down your computer, unplug it, open the c
 
 - *Important* Laptop Random Access Memory sticks are usually inserted at a 45 degree angle and then laid flat. They may sit on top of each other. To remove Random Access Memory from a laptop usually involves removing the sticks at about a 30 degree angle.
 
-- **Overclocking** 
+- **Overclocking** :
 
 - You may need to Overclock your Random Access Memory in the BIOS to achieve advertised performance of your Random Access Memory. 
 
