@@ -72,7 +72,7 @@ To install Random Access Memory, power down your computer, unplug it, open the c
 
 - You may need to Overclock your Random Access Memory in the BIOS to achieve advertised performance of your Random Access Memory. 
 
-- To enable Random Access Memeory overclocking in BIOS, restart your PC and enter the BIOS setup by hitting the appropriate key when prompted, then find the overclocking or memory settings section and enable the XMP (or DOCP/EXPO) profile. Save the changes and exit, and the BIOS will automatically apply the overclocked settings from your RAM's profile.
+- To enable Random Access Memory overclocking in BIOS, restart your PC and enter the BIOS setup by hitting the appropriate key when prompted, then find the overclocking or memory settings section and enable the XMP (or DOCP/EXPO) profile. Save the changes and exit, and the BIOS will automatically apply the overclocked settings from your RAM's profile.
 
 ### Videos and Photos For Guidance 
 
